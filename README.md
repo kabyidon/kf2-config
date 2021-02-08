@@ -18,7 +18,7 @@ Put `Config` folder in `Documents\My Games\KillingFloor2\KFGame`.
 - `t` Taunt zeds
 - `6` Get to the trader
 - `n` Negative
-- `c` Thank You
+- `c` Thank you
 
 ## DSR
 [Use Nvidia DSR to run this game at 1440p in a 1080p monitor](https://www.nvidia.com/en-us/geforce/technologies/dsr/technology/). To fix the "mouse stuck in box" bug when in 1440p, just change res to 1920x1080 then back to 2560x1440. 
