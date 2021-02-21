@@ -5,7 +5,7 @@ Config files created with the help of [Killing Floor 2 Tweaker](https://rejzor.w
 Put `Config` folder in `Documents\My Games\KillingFloor2\KFGame`.
 
 ## Binds
-- `mouse4` Team Voice
+- `mouse4` Bash
 - `ctrl` Crouch (hold)
 
 **Comms**
